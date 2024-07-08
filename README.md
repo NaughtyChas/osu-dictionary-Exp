@@ -3,6 +3,7 @@
 Rebuilt of repository "osu-dictionary" with Docusaurus.
 
 Original repository: [osu-dictionary](https://github.com/osu-atri/osu-dictionary)
+
 Docusaurus document: [Here](https://docusaurus.io/zh-CN/docs)
 
 ---
